@@ -125,14 +125,10 @@ article {
 	width: 100%; 
 	min-height: 100px; 
 	color: white; 
-
-	
 }
 
 article strong {
-	font-size: 160%;
-	
-
+	font-size: 150%;
 }
 
 #content {
@@ -145,18 +141,16 @@ section {
 	padding-top: 0;
 	width: 20%;
 	float: left; 
-	margin: 2% 2%;
+	margin: 3% 2%;
 	text-align: center;
-	
 }
-
 
 footer {
 	background: #3D6BB4;
 	width: 100%;
 	overflow: hidden; 
-	
 }
+
 footer p {
 	text-align: right; 
 	color: #ffffff;
